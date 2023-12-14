@@ -3,7 +3,6 @@ Tags :
 
 # Self-Supervised Learning
 ---
-
 ## Model 
 
 ### Bert
