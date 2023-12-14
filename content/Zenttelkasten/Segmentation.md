@@ -14,19 +14,19 @@ The <b>goal</b> is to understand the scene at a pixel level by categorizing each
 
 ![[Pasted image 20231214101103.png]]
 
-```ad-seealso
-<b>Here's is some algorithm that can perform Semantic Segmentation</b>
-#### Conventional Algorithm
-1. [[Thresholding]]
-2. [[Region-Based]]
-3. [[Boundary-Based]]
-4. [[K-means]]
-#### Deep Learning Algorithm
-1. [[Fully Convolutional Network]]
-2. [[SegNet]]
-3. [[U-Net]]
-4. [[Transformer]]
-```
+>[!example] Algorithm
+><b>Here's is some algorithm that can perform Semantic Segmentation</b>
+>#### Conventional Algorithm
+>1. [[Thresholding]]
+>2. [[Region-Based]]
+>3. [[Boundary-Based]]
+>4. [[K-means]]
+>#### Deep Learning Algorithm
+>1. [[Fully Convolutional Network]]
+>2. [[SegNet]]
+>3. [[U-Net]]
+>4. [[Transformer]]
+
 
 #### Instance Segmentation
 
@@ -36,9 +36,8 @@ It aims to identify and **differentiate each object instance separately**, regar
 
 ![[Pasted image 20231214101148.png]]
 
-```ad-seealso
-<b>Here's is some algorithm that can perform Semantic Segmentation</b>
-1. [[R-CNN Family]]
-```
+>[!example] Algorithms
+><b>Here's is some algorithm that can perform Instance Segmentation</b>
+>1. [[R-CNN Family]]
 ---
 # References
